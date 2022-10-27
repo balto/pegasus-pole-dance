@@ -21,8 +21,6 @@ import poleDancePoleChoreoImg from './img/pole-dance-pole-choreo.jpg';
 import poleDancePoleFitnessImg from './img/pole-dance-pole-fitness.jpg';
 import bodyStyleMobilityAndStretchingImg from './img/body-style-mobility-and-stretching.jpg';
 import bodyStylePowerPoleImg from './img/body-style-power-pole.jpg';
-import aerialFitnessAerialDanceImg from './img/aerial-fitness-aerial-dance.jpg';
-import aerialFitnessAerialYogaImg from './img/aerial-fitness-aerial-yoga.jpg';
 import privatePrivateClassesImg from './img/private-private-classes.jpg';
 import privatePrivateGroupImg from './img/private-private-group.jpg';
 import privatePrivatePolePartyImg from './img/private-private-pole-party.jpg';
