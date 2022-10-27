@@ -35,9 +35,9 @@ function App() {
             uri       : "/",
         },
         about              : {
-            menuTitle : 'Über uns',
-            pageTitle : "Über uns",
-            uri       : "/uber-uns"
+            menuTitle : 'Studio',
+            pageTitle : "Studio",
+            uri       : "/studio"
         },
         schedule           : {
             menuTitle : 'Schedule',
@@ -45,14 +45,14 @@ function App() {
             uri       : "/schedule"
         },
         innovativeClasses  : {
-            menuTitle : 'Classes',
-            pageTitle : "Classes",
-            uri       : "/classes"
+            menuTitle : 'Kurse',
+            pageTitle : "Kurse",
+            uri       : "/kurse"
         },
         contact            : {
-            menuTitle : 'Contact Studio',
-            pageTitle : "Contact",
-            uri       : "/contact"
+            menuTitle : 'Kontakt',
+            pageTitle : "Kontakt",
+            uri       : "/kontakt"
         },
         impressum          : {
             menuTitle : 'Impressum',
@@ -60,18 +60,18 @@ function App() {
             uri       : "/impressum"
         },
         privacyPolicy      : {
-            menuTitle : 'Privacy Policy',
-            pageTitle : "Privacy Policy",
-            uri       : "/privacy-policy"
+            menuTitle : 'Datenschutz',
+            pageTitle : "Datenschutzerklärung",
+            uri       : "/datenschutzerklaerung"
         },
         termsAndConditions : {
-            menuTitle : 'Terms And Conditions',
-            pageTitle : "Terms And Conditions",
-            uri       : "/terms-and-conditions"
+            menuTitle : 'AGB',
+            pageTitle : "Allgemeine Geschäftsbedingungen",
+            uri       : "/allgemeine-geschaeftsbedingungen"
         },
         faq                : {
             menuTitle : 'FAQ',
-            pageTitle : "FAQ",
+            pageTitle : "Häufig gestellte Fragen",
             uri       : "/faq"
         },
     };
