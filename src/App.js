@@ -40,14 +40,14 @@ function App() {
             uri       : "/studio"
         },
         schedule           : {
-            menuTitle : 'Schedule',
-            pageTitle : "Schedule",
-            uri       : "/schedule"
+            menuTitle : 'Kursplan',
+            pageTitle : "Kursplan",
+            uri       : "/kursplan"
         },
         innovativeClasses  : {
-            menuTitle : 'Kurse',
-            pageTitle : "Kurse",
-            uri       : "/kurse"
+            menuTitle : 'Kursangebot',
+            pageTitle : "Kursangebot",
+            uri       : "/kursangebot"
         },
         contact            : {
             menuTitle : 'Kontakt',
@@ -362,7 +362,7 @@ function App() {
                     ]
                 },
                 {
-                    title        : 'Private Pole Party / Junggesellenabschied / Geburtstagsparty',
+                    title        : 'Private Pole Party',
                     subTitle     : '90 Minuten',
                     descriptions : [
                         "Voraussetzung: keine",
@@ -486,7 +486,7 @@ function App() {
                                     <Instructor/>
                                     <InstructorImages/>
                                 </section>
-                                <Schedule title='Schedule'/>
+                                <Schedule/>
                                 <InnovativeClasses/>
                             </main>
                         </>
@@ -513,7 +513,7 @@ function App() {
                         <>
                             <Header headerClassName='schedule-header-background' title={menuList.schedule.pageTitle}/>
                             <main>
-                                <Schedule title='Innovative Classes'/>
+                                <Schedule/>
                             </main>
 
                         </>
