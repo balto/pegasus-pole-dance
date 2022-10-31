@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import BookingTool from "./BookingTool";
 
 const Schedule = () => {
@@ -18,10 +17,6 @@ const Schedule = () => {
             </div>
         </section>
     )
-}
-
-Schedule.propTypes = {
-    title : PropTypes.string.isRequired,
 }
 
 export default Schedule;

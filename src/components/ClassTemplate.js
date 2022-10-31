@@ -46,6 +46,7 @@ const ClassTemplate = ({title, subTitle = null, descriptions, tickets = null, im
                     </table>
                 }
             </div>
+            <a type="button" href="/kursplan" className="btn btn-pegasus">Zur Anmeldung</a>
         </div>
     }
 
