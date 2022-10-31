@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.d666aa33.css",
-    "main.js": "/static/js/main.8844087e.js",
+    "main.css": "/static/css/main.cc383912.css",
+    "main.js": "/static/js/main.686146e0.js",
     "static/js/787.0e928491.chunk.js": "/static/js/787.0e928491.chunk.js",
+    "static/media/DSC03162.png": "/static/media/DSC03162.33d13767c730f3c7a49e.png",
     "static/media/map_wide.JPG": "/static/media/map_wide.1c0314cef22812695dcd.JPG",
     "static/media/header-terms-and-conditions-1920x732.jpg": "/static/media/header-terms-and-conditions-1920x732.8f1ddf45a3c9ebc93cc0.jpg",
-    "static/media/header-home-1920x1104.jpg": "/static/media/header-home-1920x1104.34d6ea1e9cc8fd669537.jpg",
     "static/media/header-schedule-1920x732.jpg": "/static/media/header-schedule-1920x732.f838e87b449ada88d7eb.jpg",
     "static/media/header-faq-1920x732.jpg": "/static/media/header-faq-1920x732.c06efc76b35752bb818e.jpg",
     "static/media/header-about-1920x732.jpg": "/static/media/header-about-1920x732.690093c7c1c7fb408f74.jpg",
@@ -33,12 +33,12 @@
     "static/media/pole-dance-free-training.jpg": "/static/media/pole-dance-free-training.c473146c35bf9cc7b0e9.jpg",
     "static/media/465-910x692.jpg": "/static/media/465-910x692.b3f21864186afdeba6d2.jpg",
     "index.html": "/index.html",
-    "main.d666aa33.css.map": "/static/css/main.d666aa33.css.map",
-    "main.8844087e.js.map": "/static/js/main.8844087e.js.map",
+    "main.cc383912.css.map": "/static/css/main.cc383912.css.map",
+    "main.686146e0.js.map": "/static/js/main.686146e0.js.map",
     "787.0e928491.chunk.js.map": "/static/js/787.0e928491.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d666aa33.css",
-    "static/js/main.8844087e.js"
+    "static/css/main.cc383912.css",
+    "static/js/main.686146e0.js"
   ]
 }
