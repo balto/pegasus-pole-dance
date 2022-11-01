@@ -91,7 +91,6 @@ function App() {
                     tickets      : [
                         {
                             name      : 'First Pole Steps 4er Ticket',
-                            timeCount : '4',
                             valid     : '4 Wochen',
                             price     : '84 EUR'
                         }
@@ -109,7 +108,6 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Pole Fitness Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Woche',
                             price     : '25 EUR'
                         },
@@ -121,7 +119,6 @@ function App() {
                         },
                         {
                             name      : 'Pole Fitness 10er Ticket',
-                            timeCount : '10',
                             valid     : '16 Wochen',
                             price     : '210 EUR'
                         },
@@ -142,7 +139,6 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Pole Choreo 4er Ticket',
-                            timeCount : '4',
                             valid     : '4 Woche',
                             price     : '92 EUR'
                         }
@@ -162,8 +158,7 @@ function App() {
                     image        : poleDanceExoticPoleFlowImg,
                     tickets      : [
                         {
-                            name      : 'Exotic Pole Flow Ticket',
-                            timeCount : '4',
+                            name      : 'Exotic Pole Flow 4 Wochen Kurs',
                             valid     : '4 Wochen',
                             price     : '92 EUR'
                         }
@@ -185,19 +180,16 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Freies Training Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Woche',
                             price     : '10 EUR'
                         },
                         {
                             name      : 'Freies Training 5er Ticket',
-                            timeCount : '5',
                             valid     : '8 Wochen',
                             price     : '40 EUR'
                         },
                         {
                             name      : 'Freies Training 10er Ticket',
-                            timeCount : '10',
                             valid     : '16 Wochen',
                             price     : '60 EUR'
                         },
@@ -221,19 +213,16 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Bodystyle Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Woche',
                             price     : '16 EUR'
                         },
                         {
                             name      : 'Bodystyle 5er Ticket',
-                            timeCount : '5',
                             valid     : '8 Wochen',
                             price     : '70 EUR'
                         },
                         {
                             name      : 'Bodystyle 10er Ticket',
-                            timeCount : '10',
                             valid     : '16 Wochen',
                             price     : '120 EUR'
                         },
@@ -256,19 +245,16 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Bodystyle Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Woche',
                             price     : '16 EUR'
                         },
                         {
                             name      : 'Bodystyle 5er Ticket',
-                            timeCount : '5',
                             valid     : '8 Wochen',
                             price     : '70 EUR'
                         },
                         {
                             name      : 'Bodystyle 10er Ticket',
-                            timeCount : '10',
                             valid     : '16 Wochen',
                             price     : '120 EUR'
                         },
@@ -291,13 +277,11 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Schnupperstunde Pole Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Woche',
                             price     : '16 EUR'
                         },
                         {
                             name      : 'Schnupperstunde Bodystyle Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Woche',
                             price     : '10 EUR'
                         },
@@ -320,13 +304,11 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Privatstunde 1 Person Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Jahr',
                             price     : '70 EUR'
                         },
                         {
                             name      : 'Privatstunde 2 Personen Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Jahr',
                             price     : '45 EUR Pro Person'
                         },
@@ -343,19 +325,16 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Privatgruppe 3 - 5 Personen Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Jahr',
                             price     : '35 EUR Pro Person'
                         },
                         {
                             name      : 'Privatgruppe 6 - 9 Personen Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Jahr',
                             price     : '30 EUR Pro Person'
                         },
                         {
                             name      : 'Privatgruppe 10 - 12 Personen Einzelticket',
-                            timeCount : '1',
                             valid     : '1 Jahr',
                             price     : '27 EUR Pro Person'
                         },

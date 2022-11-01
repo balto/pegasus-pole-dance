@@ -25,10 +25,9 @@ const ClassTemplate = ({title, subTitle = null, descriptions, tickets = null, im
                     tickets && <table className="table">
                         <thead>
                             <tr>
-                                <th scope="col">Ticket</th>
-                                <th scope="col">Times</th>
-                                <th scope="col">Valid</th>
-                                <th scope="col">Price</th>
+                                <th scope="col"></th>
+                                <th scope="col">Gültig</th>
+                                <th scope="col">Preis</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -36,7 +35,6 @@ const ClassTemplate = ({title, subTitle = null, descriptions, tickets = null, im
                                 tickets.map((ticket, index)=>
                                     <tr key={index}>
                                         <th scope="row">{ticket.name}</th>
-                                        <td>{ticket.timeCount}</td>
                                         <td>{ticket.valid}</td>
                                         <td>{ticket.price}</td>
                                     </tr>
