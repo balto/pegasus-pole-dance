@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import headerTextImg from '../img/pegasus-pole-text.png';
 import { useLocation } from 'react-router-dom';
 
 const NavBar = ({menus}) => {
@@ -11,7 +12,7 @@ const NavBar = ({menus}) => {
     return (
         <nav className="navbar sticky-top navbar-expand-lg" style={{backgroundColor: 'white'}}>
             <div className="container-fluid">
-                <a className="navbar-brand" href={menus.home.uri}>Pegasus Pole</a>
+                <a className="navbar-brand" href={menus.home.uri}><img src={headerTextImg} style={{height: "60px"}} className="img-fluid" alt=""/></a>
                 <button className="navbar-toggler custom-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>
