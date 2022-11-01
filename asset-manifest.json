@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d47399f.css",
+    "main.css": "/static/css/main.f665c537.css",
     "main.js": "/static/js/main.c36c477d.js",
     "static/js/787.0e928491.chunk.js": "/static/js/787.0e928491.chunk.js",
     "static/media/map_wide.JPG": "/static/media/map_wide.1c0314cef22812695dcd.JPG",
-    "static/media/header-home-1920.jpg": "/static/media/header-home-1920.550f1e7739ddbea92ad4.jpg",
+    "static/media/header-home-1920-2.jpg": "/static/media/header-home-1920-2.63d56b181c688f766ba9.jpg",
     "static/media/header-terms-and-conditions-1920x732.jpg": "/static/media/header-terms-and-conditions-1920x732.8f1ddf45a3c9ebc93cc0.jpg",
     "static/media/header-schedule-1920x732.jpg": "/static/media/header-schedule-1920x732.f838e87b449ada88d7eb.jpg",
     "static/media/header-faq-1920x732.jpg": "/static/media/header-faq-1920x732.c06efc76b35752bb818e.jpg",
@@ -33,12 +33,12 @@
     "static/media/pole-dance-free-training.jpg": "/static/media/pole-dance-free-training.c473146c35bf9cc7b0e9.jpg",
     "static/media/465-910x692.jpg": "/static/media/465-910x692.b3f21864186afdeba6d2.jpg",
     "index.html": "/index.html",
-    "main.6d47399f.css.map": "/static/css/main.6d47399f.css.map",
+    "main.f665c537.css.map": "/static/css/main.f665c537.css.map",
     "main.c36c477d.js.map": "/static/js/main.c36c477d.js.map",
     "787.0e928491.chunk.js.map": "/static/js/787.0e928491.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d47399f.css",
+    "static/css/main.f665c537.css",
     "static/js/main.c36c477d.js"
   ]
 }
