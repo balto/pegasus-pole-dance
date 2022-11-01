@@ -78,7 +78,7 @@ function App() {
 
     const classGroupList = [
         {
-            title   : 'Pole Dance Kurses',
+            title   : 'Pole Dance Kurse',
             classes : [
                 {
                     title        : 'First Pole Steps',
@@ -206,7 +206,7 @@ function App() {
             ]
         },
         {
-            title   : 'Bodystyle Kurses',
+            title   : 'Bodystyle Kurse',
             classes : [
                 {
                     title        : 'Power Pole',
