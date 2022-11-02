@@ -108,7 +108,7 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Pole Fitness Einzelticket',
-                            valid     : '1 Woche',
+                            valid     : '2 Wochen',
                             price     : '25 EUR'
                         },
                         {
@@ -180,7 +180,7 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Freies Training Einzelticket',
-                            valid     : '1 Woche',
+                            valid     : '2 Wochen',
                             price     : '10 EUR'
                         },
                         {
@@ -213,7 +213,7 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Bodystyle Einzelticket',
-                            valid     : '1 Woche',
+                            valid     : '2 Wochen',
                             price     : '16 EUR'
                         },
                         {
@@ -245,7 +245,7 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Bodystyle Einzelticket',
-                            valid     : '1 Woche',
+                            valid     : '2 Wochen',
                             price     : '16 EUR'
                         },
                         {
@@ -277,12 +277,12 @@ function App() {
                     tickets      : [
                         {
                             name      : 'Schnupperstunde Pole Einzelticket',
-                            valid     : '1 Woche',
+                            valid     : '2 Wochen',
                             price     : '16 EUR'
                         },
                         {
                             name      : 'Schnupperstunde Bodystyle Einzelticket',
-                            valid     : '1 Woche',
+                            valid     : '2 Wochen',
                             price     : '10 EUR'
                         },
                     ]
