@@ -86,7 +86,7 @@ p {
   top: 55%;
   width: 100%;
   height: 35%;
-  background: linear-gradient(to right, #e4a3b8, #afa3e4);
+  background: linear-gradient(to right, #f883dd, #9c66cd);
   left: 0;
   z-index: -1;
 }
@@ -162,7 +162,7 @@ footer a {
 
 .page_title_container {
   height: 100px;
-  background: linear-gradient(to right, #e4a3b8, #afa3e4);
+  background: linear-gradient(to right, #f883dd, #9c66cd);
 }
 
 .home-header-background {
@@ -287,17 +287,17 @@ class-group-title-small {
 
 .btn-pegasus {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #e4a3b8;
-  --bs-btn-border-color: #e4a3b8;
+  --bs-btn-bg: #f883dd;
+  --bs-btn-border-color: #f883dd;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #afa3e4;
-  --bs-btn-hover-border-color: #afa3e4;
+  --bs-btn-hover-bg: #9c66cd;
+  --bs-btn-hover-border-color: #9c66cd;
   --bs-btn-focus-shadow-rgb: 225, 83, 97;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #afa3e4;
-  --bs-btn-active-border-color: #afa3e4;
+  --bs-btn-active-bg: #9c66cd;
+  --bs-btn-active-border-color: #9c66cd;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #fff;
-  --bs-btn-disabled-bg: #e4a3b8;
-  --bs-btn-disabled-border-color: #e4a3b8;
+  --bs-btn-disabled-bg: #f883dd;
+  --bs-btn-disabled-border-color: #f883dd;
 }
