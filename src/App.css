@@ -161,7 +161,8 @@ footer a {
 }
 
 .page_title_container {
-  height: 80vh;
+  height: 100px;
+  background: linear-gradient(to right, #e4a3b8, #afa3e4);
 }
 
 .home-header-background {
@@ -273,6 +274,10 @@ footer a {
 
 .class-group-title {
   text-align: center;
+}
+
+class-group-title-small {
+
 }
 
 .class-subtitle {
