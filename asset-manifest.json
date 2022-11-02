@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f5a2238.css",
-    "main.js": "/static/js/main.1ea2d473.js",
+    "main.css": "/static/css/main.56db743f.css",
+    "main.js": "/static/js/main.faed9114.js",
     "static/js/787.0e928491.chunk.js": "/static/js/787.0e928491.chunk.js",
     "static/media/312271236_510066511035036__n.png": "/static/media/312271236_510066511035036_5834344194393023619_n.74c7f67e1659ec05a478.png",
     "static/media/map_wide.JPG": "/static/media/map_wide.1c0314cef22812695dcd.JPG",
@@ -33,12 +33,12 @@
     "static/media/pole-dance-free-training.jpg": "/static/media/pole-dance-free-training.c473146c35bf9cc7b0e9.jpg",
     "static/media/465-910x692.jpg": "/static/media/465-910x692.b3f21864186afdeba6d2.jpg",
     "index.html": "/index.html",
-    "main.7f5a2238.css.map": "/static/css/main.7f5a2238.css.map",
-    "main.1ea2d473.js.map": "/static/js/main.1ea2d473.js.map",
+    "main.56db743f.css.map": "/static/css/main.56db743f.css.map",
+    "main.faed9114.js.map": "/static/js/main.faed9114.js.map",
     "787.0e928491.chunk.js.map": "/static/js/787.0e928491.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f5a2238.css",
-    "static/js/main.1ea2d473.js"
+    "static/css/main.56db743f.css",
+    "static/js/main.faed9114.js"
   ]
 }
