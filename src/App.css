@@ -13,7 +13,7 @@ body {
   }
 
   .page_title_container {
-    height: 45vh!important;
+	  height: 50px!important;
   }
 
   .page_title_container h1 {
