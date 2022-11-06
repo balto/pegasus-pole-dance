@@ -1,4 +1,4 @@
-import studioImg from '../img/526-800x800.jpg';
+import studioImg from '../img/studio_pegasus_pole.jpg';
 
 const Studio = () => {
     return (

@@ -9,15 +9,12 @@ const Footer = ({menus}) => {
             </div>
             <div className="container">
                 <div className="row">
-                    <div className="col-md-3">
-
-                    </div>
                     <div className="col-md-3 contact">
-                        <h5>Contact</h5>
+                        <h5>Kontakt</h5>
                         <ContactList/>
                     </div>
                     <div className="col-md-3">
-                        <h5>Useful Links</h5>
+                        <h5></h5>
                         <ul className="list-unstyled">
                             <li><a href={menus.impressum.uri} className="useful-links">{menus.impressum.menuTitle}</a></li>
                             <li><a href={menus.privacyPolicy.uri} className="useful-links">{menus.privacyPolicy.menuTitle}</a></li>
@@ -26,7 +23,14 @@ const Footer = ({menus}) => {
                         </ul>
                     </div>
                     <div className="col-md-3">
-                        <h5>Instagram</h5>
+                        <h5></h5>
+                        <ul className="list-unstyled">
+                            <li><a href='https://www.facebook.com/pegasuspoletrier' className="useful-links" target={'_blank'}>Facebook</a></li>
+                            <li><a href='https://www.instagram.com/pegasuspoletrier' className="useful-links" target={'_blank'}>Instagram</a></li>
+                        </ul>
+                    </div>
+                    <div className="col-md-3">
+                        Photographer <a href={'https://www.facebook.com/vizoliphotography'} target={'_blank'} style={{textDecoration: 'none'}}>@VizoliPhotography</a>
                     </div>
                 </div>
                 <div className="mt-5 mb-2 copyright">

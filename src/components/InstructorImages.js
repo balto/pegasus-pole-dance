@@ -1,6 +1,6 @@
-import instructorImg1 from "../img/47-910x692.jpg";
-import instructorImg2 from "../img/465-910x692.jpg";
-import instructorImg3 from "../img/840-910x692.jpg";
+import instructorImg1 from "../img/profile_2_veronika_varga_farkas_pegasus_pole.jpg";
+import instructorImg2 from "../img/profile_3_veronika_varga_farkas_pegasus_pole.jpg";
+import instructorImg3 from "../img/profile_4_veronika_varga_farkas_pegasus_pole.jpg";
 
 const InstructorImages = () => {
     return (

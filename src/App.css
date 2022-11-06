@@ -166,58 +166,10 @@ footer a {
 }
 
 .home-header-background {
-  background-image: url('./img/312271236_510066511035036_5834344194393023619_n.png');
+  background-image: url('img/home_pegasus_pole_veronika_varga_farkas.png');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-.about-header-background {
-  background-image: url('./img/header-about-1920x732.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.contact-header-background {
-  background-image: url('./img/header-contact-1920x732.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.impressum-header-background {
-  background-image: url('./img/header-impressum-1920x732.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.privacy-policy-header-background {
-  background-image: url('./img/header-privacy-policy-1920x732.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.terms-and-conditions-header-background {
-  background-image: url('./img/header-terms-and-conditions-1920x732.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.faq-header-background {
-  background-image: url('./img/header-faq-1920x732.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.schedule-header-background {
-  background-image: url('./img/header-schedule-1920x732.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
-.classes-header-background {
-  background-image: url('./img/header-classes-1920x732.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
 }
 
 .instructor-background {

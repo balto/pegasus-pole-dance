@@ -14,16 +14,17 @@ import Impressum from "./components/Impressum";
 import TermsAndConditions from "./components/TermsAndConditions";
 import PrivacyPolicy from "./components/PrivacyPolicy";
 import Faq from "./components/Faq";
-import poleDanceFirstPoleStepsImg from './img/pole-dance-first-pole-steps.jpg';
-import poleDanceExoticPoleFlowImg from './img/pole-dance-exotic-pole-flow.jpg';
-import poleDanceFreeTrainingImg from './img/pole-dance-free-training.jpg';
-import poleDancePoleChoreoImg from './img/pole-dance-pole-choreo.jpg';
-import poleDancePoleFitnessImg from './img/pole-dance-pole-fitness.jpg';
-import bodyStyleMobilityAndStretchingImg from './img/body-style-mobility-and-stretching.jpg';
-import bodyStylePowerPoleImg from './img/body-style-power-pole.jpg';
-import privatePrivateClassesImg from './img/private-private-classes.jpg';
-import privatePrivateGroupImg from './img/private-private-group.jpg';
-import privatePrivatePolePartyImg from './img/private-private-pole-party.jpg';
+import poleDanceFirstPoleStepsImg from './img/first_pole_steps_pegasus_pole.jpg';
+import poleDanceExoticPoleFlowImg from './img/exotic_pole_flow_pegasus_pole.jpg';
+import poleDanceFreeTrainingImg from './img/freies_training_pegasus_pole.jpg';
+import poleDancePoleChoreoImg from './img/pole_choreo_pegasus_pole.jpg';
+import poleDancePoleFitnessImg from './img/pole_fitness_pegasus_pole.jpg';
+import bodyStyleMobilityAndStretchingImg from './img/mobility_and_stretching_pegasus_pole.jpg';
+import bodyStylePowerPoleImg from './img/power_pole_pegasus_pole.jpg';
+import schnupperStundeImg from './img/schnupper_stunde_pegasus_pole.jpg';
+import privatePrivateClassesImg from './img/privatstunde_pegasus_pole.jpg';
+import privatePrivateGroupImg from './img/privatstunde_pegasus_pole.jpg';
+import privatePrivatePolePartyImg from './img/privatstunde_pegasus_pole.jpg';
 import InstructorDetailed from "./components/InstructorDetailed";
 import ClassGroupTemplate from "./components/ClassGroupTemplate";
 
@@ -273,7 +274,7 @@ function App() {
                         "Bodystyle (60 Minuten)",
                         "Du würdest Pole Dance, Bodystyling gerne mal ausprobieren? Melde dich zu einer Schnupperstunde an! Anmelden kannst du dich über unseren Stundenplan und im Buchungsvorgang direkt online bezahlen. Geschnuppert werden kann in allen laufenden Pole First Steps bzw. Level 1 Kursen, Bodystyle Kursen. Eine Schnupperstunde ist pro Person nur einmal buchbar.",
                     ],
-                    image        : bodyStylePowerPoleImg,
+                    image        : schnupperStundeImg,
                     tickets      : [
                         {
                             name      : 'Schnupperstunde Pole Einzelticket',
@@ -475,7 +476,7 @@ function App() {
                     path={menuList.about.uri}
                     element={
                         <>
-                            <Header headerClassName='about-header-background' title={menuList.about.pageTitle}/>
+                            <Header title={menuList.about.pageTitle}/>
                             <main>
                                 <section>
                                     <InstructorDetailed/>
@@ -490,7 +491,7 @@ function App() {
                     path={menuList.schedule.uri}
                     element={
                         <>
-                            <Header headerClassName='schedule-header-background' title={menuList.schedule.pageTitle}/>
+                            <Header title={menuList.schedule.pageTitle}/>
                             <main>
                                 <Schedule/>
                             </main>
@@ -502,7 +503,7 @@ function App() {
                     path={menuList.innovativeClasses.uri}
                     element={
                         <>
-                            <Header headerClassName='classes-header-background' title={menuList.innovativeClasses.pageTitle}/>
+                            <Header title={menuList.innovativeClasses.pageTitle}/>
                             <main>
                                 <div className="container">
                                     <section>
@@ -529,7 +530,7 @@ function App() {
                     path={menuList.contact.uri}
                     element={
                         <>
-                            <Header headerClassName='contact-header-background' title={menuList.contact.pageTitle}/>
+                            <Header title={menuList.contact.pageTitle}/>
                             <main>
                                 <ContactStudio/>
                             </main>
@@ -540,7 +541,7 @@ function App() {
                     path={menuList.impressum.uri}
                     element={
                         <>
-                            <Header headerClassName='impressum-header-background' title={menuList.impressum.pageTitle}/>
+                            <Header title={menuList.impressum.pageTitle}/>
                             <main>
                                 <Impressum/>
                             </main>
@@ -551,7 +552,7 @@ function App() {
                     path={menuList.privacyPolicy.uri}
                     element={
                         <>
-                            <Header headerClassName='privacy-policy-header-background' title={menuList.privacyPolicy.pageTitle}/>
+                            <Header title={menuList.privacyPolicy.pageTitle}/>
                             <main>
                                 <PrivacyPolicy/>
                             </main>
@@ -562,7 +563,7 @@ function App() {
                     path={menuList.termsAndConditions.uri}
                     element={
                         <>
-                            <Header headerClassName='impressum-header-background' title={menuList.termsAndConditions.pageTitle}/>
+                            <Header title={menuList.termsAndConditions.pageTitle}/>
                             <main>
                                 <TermsAndConditions/>
                             </main>
@@ -573,7 +574,7 @@ function App() {
                     path={menuList.faq.uri}
                     element={
                         <>
-                            <Header headerClassName='faq-header-background' title={menuList.faq.pageTitle}/>
+                            <Header title={menuList.faq.pageTitle}/>
                             <main>
                                 <Faq faqList={faqList}/>
                             </main>

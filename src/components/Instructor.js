@@ -1,4 +1,4 @@
-import instructorPortraitImg from '../img/526-800x800.jpg';
+import instructorPortraitImg from '../img/profile_veronika_varga_farkas_pegasus_pole.jpg';
 
 const Instructor = () => {
     return (
