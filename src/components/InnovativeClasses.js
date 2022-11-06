@@ -1,5 +1,6 @@
 import poleDanceImg from '../img/pole_dance_pegasus_pole.jpg';
 import bodyStyleImg from '../img/body_style_pegasus_pole.jpg';
+import aerialYogaImg from '../img/coming_soon_pegasus_pole.jpg';
 
 const InnovativeClasses = () => {
     return (
@@ -33,7 +34,7 @@ const InnovativeClasses = () => {
                         </div>
                         <div className="col-md-4">
                             <div className="card">
-                                <img src='' className="card-img-top" alt=""/>
+                                <img src={aerialYogaImg} className="card-img-top" alt=""/>
                                     <div className="card-body">
                                         <h6 className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</h6>
                                     </div>
