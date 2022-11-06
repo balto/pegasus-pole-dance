@@ -24,7 +24,7 @@ import bodyStylePowerPoleImg from './img/power_pole_pegasus_pole.jpg';
 import schnupperStundeImg from './img/schnupper_stunde_pegasus_pole.jpg';
 import privatePrivateClassesImg from './img/privatstunde_pegasus_pole.jpg';
 import privatePrivateGroupImg from './img/privatstunde_pegasus_pole.jpg';
-import privatePrivatePolePartyImg from './img/privatstunde_pegasus_pole.jpg';
+import privatePrivatePolePartyImg from './img/privat_pole_party_pegasus_pole.jpg';
 import InstructorDetailed from "./components/InstructorDetailed";
 import ClassGroupTemplate from "./components/ClassGroupTemplate";
 
