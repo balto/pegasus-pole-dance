@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1f1df2c1.css",
-    "main.js": "/static/js/main.30716b5d.js",
+    "main.js": "/static/js/main.fe258c44.js",
     "static/js/787.0e928491.chunk.js": "/static/js/787.0e928491.chunk.js",
     "static/media/home_pegasus_pole_veronika_varga_farkas.png": "/static/media/home_pegasus_pole_veronika_varga_farkas.74c7f67e1659ec05a478.png",
     "static/media/map_wide.JPG": "/static/media/map_wide.1c0314cef22812695dcd.JPG",
@@ -10,6 +10,7 @@
     "static/media/profile_veronika_varga_farkas_pegasus_pole.jpg": "/static/media/profile_veronika_varga_farkas_pegasus_pole.feedfbd0bb3c3321e1b4.jpg",
     "static/media/profile_3_veronika_varga_farkas_pegasus_pole.jpg": "/static/media/profile_3_veronika_varga_farkas_pegasus_pole.a1c2fc64892c98b2334f.jpg",
     "static/media/profile_2_veronika_varga_farkas_pegasus_pole.jpg": "/static/media/profile_2_veronika_varga_farkas_pegasus_pole.cb42ddbbf9efe45fc841.jpg",
+    "static/media/privat_pole_party_pegasus_pole.jpg": "/static/media/privat_pole_party_pegasus_pole.491be4ac8a782ddd6995.jpg",
     "static/media/body_style_pegasus_pole.jpg": "/static/media/body_style_pegasus_pole.61044b90666427d5ed9e.jpg",
     "static/media/exotic_pole_flow_pegasus_pole.jpg": "/static/media/exotic_pole_flow_pegasus_pole.f6c87e80bc559ec868da.jpg",
     "static/media/power_pole_pegasus_pole.jpg": "/static/media/power_pole_pegasus_pole.12ff119b1100f6d1d38e.jpg",
@@ -26,11 +27,11 @@
     "static/media/profile_4_veronika_varga_farkas_pegasus_pole.jpg": "/static/media/profile_4_veronika_varga_farkas_pegasus_pole.9c9b052756efdb07aec4.jpg",
     "index.html": "/index.html",
     "main.1f1df2c1.css.map": "/static/css/main.1f1df2c1.css.map",
-    "main.30716b5d.js.map": "/static/js/main.30716b5d.js.map",
+    "main.fe258c44.js.map": "/static/js/main.fe258c44.js.map",
     "787.0e928491.chunk.js.map": "/static/js/787.0e928491.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f1df2c1.css",
-    "static/js/main.30716b5d.js"
+    "static/js/main.fe258c44.js"
   ]
 }
