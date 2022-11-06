@@ -20,7 +20,7 @@ const InnovativeClasses = () => {
                             <div className="card">
                                 <img src={poleDanceImg} className="card-img-top" alt=""/>
                                     <div className="card-body">
-                                        <h6 className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</h6>
+                                        <h6 className="card-text">POLE DANCE</h6>
                                     </div>
                             </div>
                         </div>
@@ -28,7 +28,7 @@ const InnovativeClasses = () => {
                             <div className="card">
                                 <img src={bodyStyleImg} className="card-img-top" alt=""/>
                                     <div className="card-body">
-                                        <h6 className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</h6>
+                                        <h6 className="card-text">BODYSTYLE</h6>
                                     </div>
                             </div>
                         </div>
@@ -36,7 +36,7 @@ const InnovativeClasses = () => {
                             <div className="card">
                                 <img src={aerialYogaImg} className="card-img-top" alt=""/>
                                     <div className="card-body">
-                                        <h6 className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</h6>
+                                        <h6 className="card-text">AERIAL YOGA</h6>
                                     </div>
                             </div>
                         </div>
