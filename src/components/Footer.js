@@ -14,7 +14,6 @@ const Footer = ({menus}) => {
                         <ContactList/>
                     </div>
                     <div className="col-md-3">
-                        <h5></h5>
                         <ul className="list-unstyled">
                             <li><a href={menus.impressum.uri} className="useful-links">{menus.impressum.menuTitle}</a></li>
                             <li><a href={menus.privacyPolicy.uri} className="useful-links">{menus.privacyPolicy.menuTitle}</a></li>
@@ -23,14 +22,14 @@ const Footer = ({menus}) => {
                         </ul>
                     </div>
                     <div className="col-md-3">
-                        <h5></h5>
                         <ul className="list-unstyled">
-                            <li><a href='https://www.facebook.com/pegasuspoletrier' className="useful-links" target={'_blank'}>Facebook</a></li>
-                            <li><a href='https://www.instagram.com/pegasuspoletrier' className="useful-links" target={'_blank'}>Instagram</a></li>
+                            <li><a href='https://www.facebook.com/pegasuspoletrier' className="useful-links" target={'_blank'} rel="noreferrer">Facebook</a></li>
+                            <li><a href='https://www.instagram.com/pegasuspoletrier' className="useful-links" target={'_blank'} rel="noreferrer">Instagram</a></li>
+                            <li><a href='https://www.tiktok.com/@pegasuspoletrier' className="useful-links" target={'_blank'} rel="noreferrer">TikTok</a></li>
                         </ul>
                     </div>
                     <div className="col-md-3">
-                        Photographer <a href={'https://www.facebook.com/vizoliphotography'} target={'_blank'} style={{textDecoration: 'none'}}>@VizoliPhotography</a>
+                        Photographer <a href={'https://www.facebook.com/vizoliphotography'} target={'_blank'} rel="noreferrer" style={{textDecoration: 'none'}}>@VizoliPhotography</a>
                     </div>
                 </div>
                 <div className="mt-5 mb-2 copyright">
