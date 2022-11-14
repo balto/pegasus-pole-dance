@@ -2,21 +2,31 @@ const Impressum = () => {
     return (
         <section>
             <div className="container mt-5">
-                <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent venenatis est imperdiet bibendum dictum. Quisque arcu magna, fermentum in fringilla in, tempus sit amet ligula. Nunc diam quam, fermentum auctor vulputate vitae, commodo eget massa. Vivamus nec elementum risus. Cras at mauris tincidunt, mollis lorem vitae, varius turpis. Nam metus turpis, ornare ac feugiat nec, consectetur ut est. Duis ultrices elementum interdum.
-                </p>
-                <p>
-                    In hendrerit justo a nibh porta scelerisque. Duis bibendum ipsum quis mi tempor facilisis. Curabitur vitae vulputate ipsum. Maecenas non volutpat neque. Vestibulum sed tincidunt magna, in sollicitudin lectus. In eu dui ex. Aenean hendrerit ante nec nisl consectetur posuere. Suspendisse in massa tristique lorem lobortis sagittis vitae maximus ante. Vestibulum pharetra et leo eu euismod. In placerat, elit id maximus bibendum, libero est mattis orci, vel pharetra orci orci vitae quam. Morbi vel nulla a sem pharetra lobortis quis ut velit. In aliquet, mi sit amet venenatis malesuada, mi lacus hendrerit nisi, et feugiat sem justo nec arcu. Aliquam dictum vulputate tellus, in gravida ex posuere at. Proin fringilla arcu dui. Vivamus cursus leo ut dolor condimentum luctus. Curabitur et elit scelerisque urna euismod pharetra nec et ex.
-                </p>
-                <p>
-                    Curabitur non lorem magna. Curabitur varius blandit tortor, quis eleifend velit mollis in. Donec ullamcorper scelerisque sem, sit amet rhoncus nulla lacinia nec. Praesent faucibus purus nec tellus rutrum feugiat. Donec sed gravida quam. Pellentesque lacinia, felis a auctor facilisis, tortor nibh dapibus erat, eget iaculis ipsum erat a ligula. Nulla ullamcorper ullamcorper hendrerit. Vestibulum pretium diam pretium, rutrum quam eget, porttitor nisi. Suspendisse nibh metus, vulputate at fringilla eu, commodo vel tellus. Sed non ultricies leo. Cras eget tellus ut diam molestie ornare ut eget arcu.
-                </p>
-                <p>
-                    Sed eget dignissim neque. Vestibulum pharetra elit non leo euismod malesuada non non lectus. Praesent mauris turpis, dignissim ut quam a, tincidunt fermentum eros. Suspendisse sodales lacus ligula, in consectetur mi suscipit at. Praesent tristique ornare pretium. Pellentesque non massa id nisi tempor blandit. Vestibulum aliquam id justo nec vulputate. Nulla congue faucibus dictum. Maecenas in libero tincidunt, congue odio in, tempus neque. Suspendisse potenti. Cras orci tellus, iaculis et est quis, iaculis rhoncus mi. Cras sodales convallis ligula. Donec id euismod mi, at placerat lectus. Ut sed ex lacinia, feugiat purus in, imperdiet augue.
-                </p>
-                <p>
-                    Suspendisse ut tortor mi. Vestibulum porttitor eros eget est vestibulum, non tempor magna sodales. Quisque at augue convallis, volutpat nulla ac, ornare risus. Pellentesque elementum neque vel sollicitudin ultricies. Nam rutrum libero vestibulum, posuere elit eget, lobortis velit. Quisque tempor, dui vitae sollicitudin lobortis, ante dui auctor lectus, vitae consequat purus sem ultrices nunc. Pellentesque vel dolor sodales, pellentesque massa at, lobortis quam. Aenean id pellentesque orci, ut mattis erat.
-                </p>
+                <h2>Diensteanbieter</h2>
+                <p>Veronika Varga-Farkas </p>
+                <p>Pegasus Pole (Einzelunternehmen)</p>
+                <p>Schurzstr. 3</p>
+                <p>54292 Trier</p>
+                <p>Deutschland</p>
+                <h2>Kontaktm&ouml;glichkeiten</h2>E-Mail-Adresse: <p><a href="mailto:info@pegasuspole.de">info@pegasuspole.de</a></p>
+                Telefon: <p>0175 4454264</p>
+                Weitere Kontaktm&ouml;glichkeiten: <p>Facebook Messenger, WhatsApp Messenger</p>
+                <h2>Audiovisuelle Mediendienste</h2><p>Sitzland: Deutschland</p>
+                <p>Zust&auml;ndige Regulierungs-, bzw. Aufsichtsbeh&ouml;rde: Medienanstalt Rheinland-Pfalz, <a href="https://www.lmk-online.de/" target="_blank" rel="noreferrer">https://www.lmk-online.de/</a></p>
+                <h2>Angaben zum Unternehmen</h2>Umsatzsteuer Identifikationsnummer (USt-ID): <p>DE354753696</p>
+                AGB: <p><a href="https://pegasuspole.de/allgemeine-geschaeftsbedingungen" target="_blank" rel="noreferrer">https://pegasuspole.de/allgemeine-geschaeftsbedingungen</a></p>
+                <h2>Kammer</h2>Kammer (oder vergleichbare berufsrechtlicher Organisation): <p>Industrie- und Handelskammer Trier<br/>Herzogenbuscher Stra&szlig;e 12<br/>54292 Trier</p>
+                Website und Kontakt der Kammer: <p><a href="https://www.ihk-trier.de/" target="_blank" rel="noreferrer">https://www.ihk-trier.de/</a></p>
+                <h2>Online-Streitbeilegung (OS)</h2><p>Online-Streitbeilegung: Die Europ&auml;ische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie unter <a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noreferrer">https://ec.europa.eu/consumers/odr/</a> finden. Verbraucher haben die M&ouml;glichkeit, diese Plattform f&uuml;r die Beilegung ihrer Streitigkeiten zu nutzen. </p>
+                <h2>Social Media und andere Onlinepr&auml;senzen</h2>Dieses Impressum gilt auch f&uuml;r die folgenden Social-Media-Pr&auml;senzen und Onlineprofile: <p><a href="https://www.facebook.com/pegasuspoletrier" target="_blank" rel="noreferrer">https://www.facebook.com/pegasuspoletrier</a></p>
+                <p><a href="https://www.instagram.com/pegasuspoletrier" target="_blank" rel="noreferrer">https://www.instagram.com/pegasuspoletrier</a></p>
+                <p><a href="https://www.tiktok.com/@pegasuspoletrier" target="_blank" rel="noreferrer">https://www.tiktok.com/@pegasuspoletrier</a></p>
+                <h2>Haftungs- und Schutzrechtshinweise</h2><p>Haftungsausschluss: Die Inhalte dieses Onlineangebotes wurden sorgf&auml;ltig und nach unserem aktuellen Kenntnisstand erstellt, dienen jedoch nur der Information und entfalten keine rechtlich bindende Wirkung, sofern es sich nicht um gesetzlich verpflichtende Informationen (z.B. das Impressum, die Datenschutzerkl&auml;rung, AGB oder verpflichtende Belehrungen von Verbrauchern) handelt. Wir behalten uns vor, die Inhalte vollst&auml;ndig oder teilweise zu &auml;ndern oder zu l&ouml;schen, soweit vertragliche Verpflichtungen unber&uuml;hrt bleiben. Alle Angebote sind freibleibend und unverbindlich. </p>
+                <p>Links auf fremde Webseiten: Die Inhalte fremder Webseiten, auf die wir direkt oder indirekt verweisen, liegen au&szlig;erhalb unseres Verantwortungsbereiches und wir machen sie uns nicht zu Eigen. F&uuml;r alle Inhalte und Nachteile, die aus der Nutzung der in den verlinkten Webseiten aufrufbaren Informationen entstehen, &uuml;bernehmen wir keine Verantwortung.</p>
+                <p>Urheberrechte und Markenrechte: Alle auf dieser Website dargestellten Inhalte, wie Texte, Fotografien, Grafiken, Marken und Warenzeichen sind durch die jeweiligen Schutzrechte (Urheberrechte, Markenrechte) gesch&uuml;tzt. Die Verwendung, Vervielf&auml;ltigung usw. unterliegen unseren Rechten oder den Rechten der jeweiligen Urheber bzw. Rechteinhaber.</p>
+                <p>Hinweise auf Rechtsverst&ouml;&szlig;e: Sollten Sie innerhalb unseres Internetauftritts Rechtsverst&ouml;&szlig;e bemerken, bitten wir Sie uns auf diese hinzuweisen. Wir werden rechtswidrige Inhalte und Links nach Kenntnisnahme unverz&uuml;glich entfernen.</p>
+                <h2>Bildnachweise</h2>Bildquellen und Urheberrechtshinweise: <p>Vizoli Photography</p>
+                <p><a href="https://www.facebook.com/vizoliphotography" target="_blank" rel="noreferrer">https://www.facebook.com/vizoliphotography</a></p>
             </div>
         </section>
     )
