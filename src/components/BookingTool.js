@@ -6,7 +6,7 @@ const BookingTool = () => {
             scrolling="yes"
             src="https://widget.fitogram.pro/pegasus-pole-studio?fito-embedded=true&w=/calendar"
             width="100%"
-            height="800px">
+            height="1000px">
         </iframe>
     )
 }
