@@ -272,7 +272,7 @@ function App() {
                     descriptions : [
                         "Pole Fitness (75 Minuten)",
                         "Bodystyle (60 Minuten)",
-                        "Du würdest Pole Dance, Bodystyling gerne mal ausprobieren? Melde dich zu einer Schnupperstunde an! Anmelden kannst du dich über unseren Stundenplan und im Buchungsvorgang direkt online bezahlen. Geschnuppert werden kann in allen laufenden Pole First Steps bzw. Level 1 Kursen, Bodystyle Kursen. Eine Schnupperstunde ist pro Person nur einmal buchbar.",
+                        "Du würdest Pole Dance, Bodystyling gerne mal ausprobieren? Melde dich zu einer Schnupperstunde an! Anmelden kannst du dich über unseren Stundenplan und im Buchungsvorgang direkt online bezahlen. Geschnuppert werden kann in allen laufenden Level 1 Kursen und Bodystyle Kursen. Eine Schnupperstunde ist pro Person nur einmal buchbar.",
                     ],
                     image        : schnupperStundeImg,
                     tickets      : [
