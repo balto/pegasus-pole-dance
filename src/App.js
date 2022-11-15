@@ -367,14 +367,14 @@ function App() {
                 "Pole Dance ist eine neue Trendsportart, eine Mischung aus Tanz, Fitness und Akrobatik und hat als Sportart in den letzten Jahren viel Hype bekommen. Es verbindet Kraft, Ausdauer, Flexibilität, Koordination, vereint tänzerische Elemente mit Eleganz und Ästhetik und führt zu einem besseren Körpergefühl und mehr Selbstbewusstsein.",
                 "Wie der Name schon sagt, werden beim Pole Dance, Figuren und Bewegungen an und um eine Stange mit begleitender Musik ausgeführt. Ein powervolles und umfassendes Ganzkörpertraining, bei dem die Arm- und Oberkörpermuskulatur besonders beansprucht wird, um das eigene Körpergewicht zu halten. Hinzu kommt die Gelenkigkeit und Beweglichkeit, die dem Tanz ihre Eleganz verleihen.",
                 "",
-                "Aerial Yoga ist eine faszinierende neue Trainingsform mit einem Artistik-Tuch. Sie verbindet Luftakrobatik (engl. Aerial Arts), tänzerische Elemente mit effektivem funktionellem Schlingentraining und Yoga. Der Spaßfaktor ist besonders beim Schwingen, Schaukeln und Drehen riesig. Neben den Kräftigungs- und Dehnungsübungen lädt diese gemütlich-herausfordernde Artistik-Hängematte auch zum Entspannen ein."
+                "Aerial Yoga ist eine faszinierende neue Trainingsform mit einem Artistik-Tuch. Sie verbindet Luftakrobatik (engl. Aerial Arts), tänzerische Elemente mit effektivem funktionellem Schlingentraining und Yoga. Der Spaßfaktor ist besonders beim Schwingen, Schaukeln und Drehen riesig. Neben den Kräftigungs- und Dehnungsübungen lädt diese gemütlich-herausfordernde Artistik-Hängematte auch zum Entspannen ein.",
             ]
         },
         {
             question : 'Welche Voraussetzungen benötige ich um Pole Dance / Aerial Yoga zu trainieren?',
             answer   : [
                 "Keine! Du musst keine vorherige Sport- oder Tanzerfahrung, Kraft oder Flexibilität zu haben. Geschlecht und Alter und wie groß oder schwer du bist, spielen keine Rolle. Jeder ist bei uns herzlich willkommen! Wir beginnen mit den Grundlagen und bringen dir alles bei. Du würdest uns vorher nicht glauben, was du alles schaffen kannst! Das Einzige, was du mitbringen solltest, ist die Motivation, dich fit zu halten und diesen Sport zu erlernen. Das Wichtigste ist, dass du Spaß am Tanzen hast.",
-                "Jeder Anfang ist schwer. Wer dran bleibt und nicht aufgibt, wird mit viel Ehrgeiz und Übung schnell die ersten Erfolgserlebnisse haben."
+                "Jeder Anfang ist schwer. Wer dran bleibt und nicht aufgibt, wird mit viel Ehrgeiz und Übung schnell die ersten Erfolgserlebnisse haben.",
             ]
         },
         {
@@ -387,14 +387,16 @@ function App() {
                 "Außerdem sollte auf das Tragen von Schmuck während des Trainings verzichtet werden, da hier eine hohe Verletzungsgefahr und Beschädigungen an Stange / Yoga Tuch bestehen.",
                 "Vor dem Training oder am selben Tag das Eincremen oder Einölen vermeiden (ansonsten kein Halt an der Stange).",
                 "Verwende einen Haargummi für lange Haare.",
-                "Piercings müssen abgeklebt werden."
+                "Piercings müssen abgeklebt werden.",
+                "Bitten erscheine 15 Min. vor Kursbeginn zur Vorbereitung auf den Kurs (Umziehen, Toilette, Fragen stellen etc.), damit wir pünktlich mit dem Training beginnen können.",
+                "Solltest du später als 5 Minuten nach Kursbeginn eintreffen, kannst du leider nicht am Kurs teilnehmen, da die Verletzungsgefahr zu groß ist."
             ]
         },
         {
             question : 'Ist das Alter egal?',
             answer   : [
-                "Ja, grundsätzlich kannst du unseren Sport in jedem Alter lernen. Unsere Kurse sind allerdings didaktisch auf Erwachsene ausgelegt, Kinder unter 14 Jahren können nicht teilnehmen. Es gibt keine Altersbegrenzung nach oben – lasst euch nicht erzählen, dass ihr zu alt für Pole Dance oder für Aerial Yoga seid! ",
-                "Wenn du mindestens 14 Jahre alt und aus gesundheitlicher Sicht Sport machen darfst, aber noch nicht volljährig bist, darfst du mit schriftlicher Einverständniserklärung deiner Eltern bei uns mitmachen. ",
+                "Ja, grundsätzlich kannst du unseren Sport in jedem Alter lernen. Unsere Kurse sind allerdings didaktisch auf Erwachsene ausgelegt, Kinder unter 14 Jahren können nicht teilnehmen. Es gibt keine Altersbegrenzung nach oben – lasst euch nicht erzählen, dass ihr zu alt für Pole Dance oder für Aerial Yoga seid!",
+                "Wenn du mindestens 14 Jahre alt und aus gesundheitlicher Sicht Sport machen darfst, aber noch nicht volljährig bist, darfst du mit schriftlicher Einverständniserklärung deiner Eltern bei uns mitmachen.",
                 "Exotic Pole und das Tragen von High Heels erlauben wir Teilnehmerinnen erst ab einem Alter von 16, bzw. 18 Jahren."
             ]
         },
@@ -409,19 +411,20 @@ function App() {
             question : 'Bekommt jeder Teilnehmer eine eigene Stange / ein eigenes Yoga-Tuch?',
             answer   : [
                 "Beim Pole Fitness bist du alleine an einer Stange und bei den Kopfüber- und Hebefiguren stellen wir Crashmatten auf, um dir Sicherheit zu geben. Das Gleiche gilt für Aerial Yoga Kurse.",
-                "Bei der Choreografie trainieren wir paarweise an einer Stange bzw.  an einem Tuch und tanzen in 2 Gruppen. Somit kannst du visuell viel von anderen lernen. Diese Kurse dauern 90 Minuten, sodass jeder Teilnehmer auf seine Kosten kommt."
+                "Bei der Choreografie trainieren wir paarweise an einer Stange bzw.  an einem Tuch und tanzen in 2 Gruppen. Somit kannst du visuell viel von anderen lernen. Diese Kurse dauern 90 Minuten, sodass jeder Teilnehmer auf seine Kosten kommt.",
             ]
         },
         {
             question : 'Kann ich eine Kursstunde absagen?',
             answer   : [
-                "Ja, wenn das Training rechtzeitig (mind. 24h vor Kursbeginn) gekündigt wird. Falls du (aus welchen Gründen auch immer) absagen musst, ist eine Rükerstattung der Gebühr bis zu 24 Stunden vor Kursbeginn möglich. Absagen haben schriftlich per E-Mail an info@pegasuspole.de zu erfolgen."
+                "Ja, wenn das Training rechtzeitig (mind. 24h vor Kursbeginn) gekündigt wird. Falls du (aus welchen Gründen auch immer) absagen musst, ist eine Rükerstattung der Gebühr bis zu 24 Stunden vor Kursbeginn möglich. Absagen haben schriftlich per E-Mail an info@pegasuspole.de zu erfolgen.",
+                "Sollte der Kurs zu einem späteren Zeitpunkt gekündigt werden oder der/die Teilnehmer*in erscheint nicht zum Kurs/Workshop, muss dieser bezahlt werden.",
             ]
         },
         {
             question : 'Darf jemand beim Training zuschauen?',
             answer   : [
-                "Aus Respekt auf unsere Teilnehmer ist das Zuschauen beim gesamten Kurs nicht möglich. Es ist uns sehr wichtig, dass sich jeder Trainierende wohlfühlt. Besucher können sich aber gern einen kurzen Eindruck vom Kurs verschaffen und vorbeikommen, um das Studio zu besichtigen, oder sogar selbst ein Probetraining machen."
+                "Aus Respekt auf unsere Teilnehmer ist das Zuschauen beim gesamten Kurs nicht möglich. Es ist uns sehr wichtig, dass sich jeder Trainierende wohlfühlt. Besucher können sich aber gern einen kurzen Eindruck vom Kurs verschaffen und vorbeikommen, um das Studio zu besichtigen, oder sogar selbst ein Probetraining machen.",
             ]
         },
         {
@@ -435,13 +438,25 @@ function App() {
             question : 'Kann ich eine Schnupperstunde machen?',
             answer   : [
                 "Ja, du kannst bei uns eine Schnupperstunde machen, um dir einen ersten Eindruck verschaffen.",
-                "Eine Schnupperstunde kostet 15 € und ist pro Person nur einmal buchbar."
+                "Eine Schnupperstunde kostet 16 € und ist pro Person nur einmal buchbar."
             ]
         },
         {
             question : 'Gibt es bei euch Parkplätze?',
             answer   : [
                 "Ja. Und diese sind sogar kostenlos. Auf der Hausvorderseite stehen jede Menge Parkplätze zur Verfügung."
+            ]
+        },
+        {
+            question : 'In welcher Sprache wird unterrichtet?',
+            answer   : [
+                "Die Kurse werden auf Deutsch unterrichtet, aber auf Anfrage gebe ich gerne Privatstunden auf Englisch oder Ungarisch (Einzel bzw. Gruppentraining)."
+            ]
+        },
+        {
+            question : 'Gibt es einen Studentenrabatt für die Kurse?',
+            answer   : [
+                "10% Ermäßigung nur bei Vorlage eines gültigen Studenten- oder Schülerausweises."
             ]
         },
         {

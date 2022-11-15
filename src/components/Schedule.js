@@ -9,7 +9,7 @@ const Schedule = () => {
                         <span className="highlight">Unser Kursplan</span>
                     </h1>
                     <p>
-                        Alienum phaedrum torquatos nec eu, vis detraxit periculis exnihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est. Eos ei nisl graecis. vix aperiri conse
+                        Hier kannst du unseren aktuellen Kursplan einsehen und deinen Platz reservieren. Zur Anmeldung klicke auf den gewünschten Kurs und wähle dann über den Button "Jetzt buchen" das passende Kursticket aus.
                     </p>
 
                     <BookingTool/>

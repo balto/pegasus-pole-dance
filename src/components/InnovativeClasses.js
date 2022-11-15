@@ -12,7 +12,7 @@ const InnovativeClasses = () => {
                             <span className="highlight">Verschiedene Kursarten</span>
                         </h1>
                         <p>
-                            Alienum phaedrum torquatos nec eu, vis detraxit periculis exnihil expetendis in mei. Mei an pericula euripidis, hinc partem ei est. Eos ei nisl graecis. vix aperiri conse
+                            Finde die passende Bewegungsform für dich, sei es sportlich, akrobatisch, kräftigend, tänzerisch, sexy, oder auch entspannend!
                         </p>
                     </div>
                     <div className="row g-5 mt-2">
