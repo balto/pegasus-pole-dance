@@ -73,7 +73,7 @@ function App() {
         faq                : {
             menuTitle : 'FAQ',
             pageTitle : "Häufig gestellte Fragen",
-            uri       : "/faq"
+            uri       : "/haufig-gestellte-fragen"
         },
     };
 
