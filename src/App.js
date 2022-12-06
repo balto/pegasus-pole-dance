@@ -27,6 +27,7 @@ import privatePrivateGroupImg from './img/privatstunde_pegasus_pole.jpg';
 import privatePrivatePolePartyImg from './img/privat_pole_party_pegasus_pole.jpg';
 import InstructorDetailed from "./components/InstructorDetailed";
 import ClassGroupTemplate from "./components/ClassGroupTemplate";
+import Gewinnspiel from "./components/Gewinnspiel";
 
 function App() {
     const menuList = {
@@ -74,6 +75,11 @@ function App() {
             menuTitle : 'FAQ',
             pageTitle : "Häufig gestellte Fragen",
             uri       : "/haufig-gestellte-fragen"
+        },
+        gewinnspiel          : {
+            menuTitle : 'Gewinnspiel',
+            pageTitle : "Gewinnspiel",
+            uri       : "/gewinnspiel"
         },
     };
 
@@ -592,6 +598,17 @@ function App() {
                             <Header title={menuList.faq.pageTitle}/>
                             <main>
                                 <Faq faqList={faqList}/>
+                            </main>
+                        </>
+                    }
+                />
+                <Route
+                    path={menuList.gewinnspiel.uri}
+                    element={
+                        <>
+                            <Header title={menuList.gewinnspiel.pageTitle}/>
+                            <main>
+                                <Gewinnspiel/>
                             </main>
                         </>
                     }

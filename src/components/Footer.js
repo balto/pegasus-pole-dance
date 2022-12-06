@@ -19,6 +19,7 @@ const Footer = ({menus}) => {
                             <li><a href={menus.privacyPolicy.uri} className="useful-links">{menus.privacyPolicy.menuTitle}</a></li>
                             <li><a href={menus.termsAndConditions.uri} className="useful-links">{menus.termsAndConditions.menuTitle}</a></li>
                             <li><a href={menus.faq.uri} className="useful-links">{menus.faq.menuTitle}</a></li>
+                            <li><a href={menus.gewinnspiel.uri} className="useful-links">{menus.gewinnspiel.menuTitle}</a></li>
                         </ul>
                     </div>
                     <div className="col-md-3">
